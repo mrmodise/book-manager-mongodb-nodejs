@@ -6,8 +6,8 @@ A simple application to demostrate CRUD functions in MongoDB using Mongoose and 
 
 #Environment Set-up
 <ul>
-  <li>You must have NodeJS installed in your computer</li>
-  <li>This demo is an extension to <a href="https://www.udemy.com/mongoosejs-essentials/learn/v4/">Patrick's course on Udemy</a></li>
+  <li>You must have NodeJS and mongodb (you can use mlab.com) installed in your computer</li>
+  <li>This demo was inspired by <a href="https://www.udemy.com/mongoosejs-essentials/learn/v4/">Patrick's course on Udemy</a></li>
 </ul>
 
 #Instructions
