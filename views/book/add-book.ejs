@@ -1,0 +1,31 @@
+<% layout('layout') %>
+<div class="row marketing">
+<div class="col-lg-12">
+	<h3>Add a new book:</h3>
+	<div class="col-lg-10">
+	<% if (message.length > 0 ) {%>
+		<div class="alert alert-success alert-dismissible" role="alert">
+  			<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  				<strong>Success!</strong> <%= message %>
+		</div>
+	<% } %>
+	<form method="POST" class="well">
+		<div class="form-group">
+			<label for="">Title:</label>
+			<input type="text" class="form-control" name="title" required>
+		</div>
+		<div class="form-group">
+			<label for="">Author:</label>
+			<input type="text" class="form-control" name="author" required>
+		</div>
+		<div class="form-group">
+			<label for="">Category:</label>
+			<input type="text" class="form-control" name="category" required>
+		</div>
+		<div class="form-group">
+			<button class="btn btn-primary">Save</button>
+		</div>
+	</form>
+	</div>
+</div>
+</div>
