@@ -7,7 +7,8 @@ A simple application to demostrate CRUD functions in MongoDB using Mongoose and 
 #Environment Set-up
 <ul>
   <li>You must have NodeJS installed</li>
-  <li>This demo was inspired by <a target="_blank" href="https://www.udemy.com/mongoosejs-essentials/learn/v4/">Patrick's course on Udemy</a></li>
+  <li>This demo was inspired by </li>
+  <li>Check <a target="_blank" href="https://glacial-falls-62616.herokuapp.com/">demo</a> on Heroku </li>
 </ul>
 
 #Instructions
