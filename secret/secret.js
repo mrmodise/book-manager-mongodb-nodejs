@@ -1,4 +1,4 @@
 module.exports = {
-	database: 'mongodb://rekz:rekz@ds015403.mlab.com:15403/book-store',
+	database: 'mongodb://localhost/bookstore',
 	port: 8000
 }
