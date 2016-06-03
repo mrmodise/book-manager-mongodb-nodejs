@@ -17,16 +17,16 @@ A simple application to demostrate CRUD functions in MongoDB using Mongoose and 
 </ul>
 
 ```
-  cd book-manager-mongodb-nodejs <br/>
+  cd book-manager-mongodb-nodejs
   npm install
 ```
 
 <ul>
-  <li>Once all dependencies are installed, run 
+  <li>Once all dependencies are installed, </li> run 
   ```
-  node server</b>
+  node server
   ```
-  </li>
+  
   <li>You should run the above command while you're within the project's root directory</li>
 </ul>
 
