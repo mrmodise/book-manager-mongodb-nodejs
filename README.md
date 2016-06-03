@@ -22,11 +22,11 @@ A simple application to demostrate CRUD functions in MongoDB using Mongoose and 
 ```
 
 <ul>
-  <li>Once all dependencies are installed, </li> run 
-  ```
-  node server
-  ```
-  
-  <li>You should run the above command while you're within the project's root directory</li>
+  <li>Once all dependencies are installed, </li>  
+  <li>Run the command below while you're within the project's root directory</li>
 </ul>
+
+```
+  run node server
+```
 
